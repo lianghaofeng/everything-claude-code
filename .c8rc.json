@@ -1,0 +1,7 @@
+{
+  "all": true,
+  "include": ["scripts/**/*.js"],
+  "exclude": ["scripts/ci/**"],
+  "reporter": ["text", "lcov"],
+  "check-coverage": false
+}
